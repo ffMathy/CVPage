@@ -15,7 +15,6 @@ namespace CVPage
 
         public void Configure(IApplicationBuilder app)
         {
-            app.UseMvc();
         }
     }
 }
